@@ -4,6 +4,7 @@ Capstone_GNUradio_examples
 Example using GNU radio for my Senior design group.
 
 Started on 8-23-2014
+Creator: Wylie Standage-Beier
 
 
 Ettus B210
